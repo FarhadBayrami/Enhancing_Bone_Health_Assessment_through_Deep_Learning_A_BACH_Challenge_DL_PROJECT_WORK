@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as below."
+authors:
+  - family-names: Bayrami
+    given-names: Farhad
+    email: farhad.bayrami@studio.unibo.it
+    affiliation: University of Bologna
+title: "Enhancing Bone Health Assessment through Deep Learning"
+version: 1.0.0
+date-released: 2025-02-01
+url: "https://github.com/FarhadBayrami/Enhancing_Bone_Health_Assessment_through_Deep_Learning"
+license: MIT
